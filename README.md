@@ -5,8 +5,9 @@
 #### **País:**
 	Después de recibir esta orden el programa debe de preguntarme el nombre del 
 	país y esperar el input correspondiente, como segundo paso debe preguntarme el 
-	nombre de la capital del país que acabo de ingresar y esperar el input correspondiente. 
-	Seguido a esto me debe de dar el mensaje “Gracias por agregar un país con su capital”.
+	nombre de la capital del país que acabo de ingresar y esperar el input 
+	correspondiente. Seguido a esto me debe de dar el mensaje:
+	“Gracias por agregar un país con su capital”.
  
 #### **Paises:**
 	Me debe de dar la lista de países ya ingresados.
