@@ -43,7 +43,8 @@
 	2. Puede utilizar palabras o números para que el usuario elija sus opciones.
 
 #### Output messages
-	1. Recuerde mostrar ayudas al usuario cuando realicé una acción errónea en su aplicación.
+	1. Recuerde mostrar ayudas al usuario cuando realicé una acción errónea 
+	   en su aplicación.
 
 
 # Running tests
