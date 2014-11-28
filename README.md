@@ -17,7 +17,7 @@
 #### **Todo:**
 	Me debe de dar la lista de países con su capital correspondiente
  
-#### **Todo Ordenado Capital:**
+#### **TodoOrdenadoCapital:**
 	Me debe de dar el mismo resultado que Todo pero ordenando los outputs
 	alfabéticamente por nombre de la capital.
  
